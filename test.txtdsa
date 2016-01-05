@@ -1,0 +1,12 @@
+if a>0 then 
+begin 
+  a:=b;
+  c:=0x123;
+  a:=c 
+end 
+else 
+begin 
+   while a>1 do 
+      a:=1; 
+   b:=5 
+end

@@ -1,0 +1,2 @@
+flag=if then else while do begin end
+punct=+ - * / < > <\= >\= <> \= ; , ( ) \:\= &
